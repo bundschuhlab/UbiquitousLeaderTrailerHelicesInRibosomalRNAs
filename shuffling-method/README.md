@@ -5,7 +5,7 @@ This code base runs the shuffling method on GTDB taxonomic species. Call the pip
 - Linux environment
 - Python3
 - ViennaRNA python package (https://pypi.org/project/ViennaRNA/)
-- meme-5.5.1
+- meme-5.5.1 files "alphabet_py3.py" and "sequence_py3.py"
 
 # Python packages:
 - statistics
